@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: Practice questions for the fourth exam of the course.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/18-01-single-variable-calculus-fall-2006/a9e385b221403d81cb6352ca9803dddd_prexam4a.pdf
+file: /media/courses/18-01-single-variable-calculus-fall-2006/a9e385b221403d81cb6352ca9803dddd_prexam4a.pdf
 file_type: application/pdf
+learning_resource_types:
+- Exams
+ocw_type: OCWFile
+parent_title: Exams
+parent_type: CourseSection
 resourcetype: Document
 title: Practice Questions for Exam 4
 uid: a9e385b2-2140-3d81-cb63-52ca9803dddd

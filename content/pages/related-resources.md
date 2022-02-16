@@ -1,5 +1,7 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 title: Related Resources
 uid: 71c1ad1b-ad19-cb35-c6f7-cf74f4be9214
 ---
@@ -60,9 +62,9 @@ The Web page contains a plethora of interesting resources to help you visualize 
     *   spiral: _r_ = t ([AVI](http://www.math.odu.edu/cbii/calcanim/polar7.avi))
     *   circle: _r_ = _cos t_ ([AVI](http://www.math.odu.edu/cbii/calcanim/polar8.avi))
 *   Converging and diverging series animations (by Przemyslaw Bogacki and Gordon Melrose):
-    *   _1 / N(1/2)_ ([AVI](http://www.math.odu.edu/cbii/calcanim/series4.avi))
+    *   _1 / N{{< sup "(1/2)" >}}_ ([AVI](http://www.math.odu.edu/cbii/calcanim/series4.avi))
     *   _1 / N_ ([AVI](http://www.math.odu.edu/cbii/calcanim/series1.avi))
-    *   _1 / N2_ ([AVI](http://www.math.odu.edu/cbii/calcanim/series3.avi))
-    *   _1 / N15_ ([AVI](http://www.math.odu.edu/cbii/calcanim/series2.avi))
+    *   _1 / N{{< sup "2" >}}_ ([AVI](http://www.math.odu.edu/cbii/calcanim/series3.avi))
+    *   _1 / N{{< sup "15" >}}_ ([AVI](http://www.math.odu.edu/cbii/calcanim/series2.avi))
 *   [Numerical tools for computing sequences / series](http://www.univie.ac.at/future.media/moe/galerie/grenz/grenz.html#folgennumerisch) (from [Maths Online](http://www.univie.ac.at/future.media/moe/galerie.html))
 *   [Power series grapher](http://www.scottsarra.org/applets/calculus/SeriesGrapherApplet.html)

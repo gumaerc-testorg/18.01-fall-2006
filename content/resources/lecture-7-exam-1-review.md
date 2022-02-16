@@ -2,14 +2,22 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types:
+- Lecture Videos
+optional_tab_title: ''
+optional_text: ''
+parent_title: Video Lectures
+parent_type: CourseSection
+related_resources_text: Lecture Notes ([PDF](resources/lec7))
+resource_index_text: ''
 resourcetype: Video
 title: 'Lecture 7: Exam 1 Review'
 uid: dad5a269-6a83-7aad-9687-f7693e66a6ee
 video_files:
   archive_url: http://www.archive.org/download/MIT18.01JF07/ocw-18.01-f07-lec07_300k.mp4
-  video_captions_file: https://open-learning-course-data-rc.s3.amazonaws.com/18-01-single-variable-calculus-fall-2006/8d11472623ac5f058f01b2e4c4f47035_eHJuAByQf5A.vtt
+  video_captions_file: /courses/18-01-single-variable-calculus-fall-2006/8d11472623ac5f058f01b2e4c4f47035_eHJuAByQf5A.vtt
   video_thumbnail_file: https://img.youtube.com/vi/eHJuAByQf5A/default.jpg
-  video_transcript_file: https://open-learning-course-data-rc.s3.amazonaws.com/18-01-single-variable-calculus-fall-2006/ea2fe1227a97b01e249efe472ee8b308_eHJuAByQf5A.pdf
+  video_transcript_file: /courses/18-01-single-variable-calculus-fall-2006/ea2fe1227a97b01e249efe472ee8b308_eHJuAByQf5A.pdf
 video_metadata:
   youtube_id: eHJuAByQf5A
 ---

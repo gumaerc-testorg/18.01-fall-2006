@@ -1,6 +1,9 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: Video Lectures - Creole
+parent_type: CourseSection
 parent_uid: 34c980c2-7240-0d92-88b0-2ea31fe70122
 title: 'Lecture 2: Limits'
 uid: 75c30ff2-1d42-65df-b95d-2fac19adc3dc

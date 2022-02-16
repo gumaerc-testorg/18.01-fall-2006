@@ -2,8 +2,13 @@
 content_type: resource
 description: Lecture notes on infinite series, geometric series, notation, harmonic
   series, integral comparison, and convergence tests.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/18-01-single-variable-calculus-fall-2006/ba5ce991638cf6285e431937132e5b32_lec36.pdf
+file: /media/courses/18-01-single-variable-calculus-fall-2006/ba5ce991638cf6285e431937132e5b32_lec36.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+ocw_type: OCWFile
+parent_title: Lecture Notes
+parent_type: CourseSection
 resourcetype: Document
 title: 'Lecture 36: Infinite Series and Convergence Tests'
 uid: ba5ce991-638c-f628-5e43-1937132e5b32

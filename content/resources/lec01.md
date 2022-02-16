@@ -1,12 +1,14 @@
 ---
 content_type: resource
 description: Image accompanying a video lecture.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/18-01-single-variable-calculus-fall-2006/7878bd82043c2b2be8942dae67c23c2f_lec01.jpg
+file: /media/courses/18-01-single-variable-calculus-fall-2006/7878bd82043c2b2be8942dae67c23c2f_lec01.jpg
 file_type: image/jpeg
 image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+learning_resource_types: []
+ocw_type: OCWImage
 resourcetype: Image
 title: Lecture 1
 uid: 7878bd82-043c-2b2b-e894-2dae67c23c2f

@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: Problem set on single variable calculus.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/18-01-single-variable-calculus-fall-2006/dc08c2bdfb6ed8ef96e4560d6391f1d6_ps2a.pdf
+file: /media/courses/18-01-single-variable-calculus-fall-2006/dc08c2bdfb6ed8ef96e4560d6391f1d6_ps2a.pdf
 file_type: application/pdf
+learning_resource_types:
+- Assignments
+ocw_type: OCWFile
+parent_title: Assignments
+parent_type: CourseSection
 resourcetype: Document
 title: Problem Set 2A
 uid: dc08c2bd-fb6e-d8ef-96e4-560d6391f1d6

@@ -1,5 +1,8 @@
 ---
 content_type: page
+learning_resource_types:
+- Readings
+ocw_type: CourseSection
 title: Readings
 uid: 10aa4129-34a5-3f66-49d1-9398bf5e5220
 ---
@@ -596,7 +599,7 @@ Text pp. 439-442 (top), pp. 451-3 (skip proof in example 3), and pp. 455-457 (to
 Taylor's series
 {{< tdclose >}}
 {{< tdopen >}}
-Text 14.4 through p. 498 (bottom); skip everything involving the remainder term Rn (x), 14.3-p. 490 (top) and examples 1-5.
+Text 14.4 through p. 498 (bottom); skip everything involving the remainder term R{{< sub "n" >}} (x), 14.3-p. 490 (top) and examples 1-5.
 {{< tdclose >}}
 
 {{< trclose >}}

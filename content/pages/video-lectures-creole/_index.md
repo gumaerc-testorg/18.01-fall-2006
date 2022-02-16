@@ -1,5 +1,7 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 title: Video Lectures - Creole
 uid: 34c980c2-7240-0d92-88b0-2ea31fe70122
 ---

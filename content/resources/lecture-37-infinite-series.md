@@ -2,14 +2,22 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types:
+- Lecture Videos
+optional_tab_title: ''
+optional_text: ''
+parent_title: Video Lectures
+parent_type: CourseSection
+related_resources_text: Lecture Notes ([PDF - 1.4MB](resources/lec36))
+resource_index_text: ''
 resourcetype: Video
 title: 'Lecture 37: Infinite Series'
 uid: 683b9253-cbbf-4999-5190-46ff05e10658
 video_files:
   archive_url: http://www.archive.org/download/MIT18.01JF07/ocw-18.01-f07-lec37_300k.mp4
-  video_captions_file: https://open-learning-course-data-rc.s3.amazonaws.com/18-01-single-variable-calculus-fall-2006/2c136e35689a5843ba8da40f35127588_MK_0QHbUnIA.vtt
+  video_captions_file: /courses/18-01-single-variable-calculus-fall-2006/2c136e35689a5843ba8da40f35127588_MK_0QHbUnIA.vtt
   video_thumbnail_file: https://img.youtube.com/vi/MK_0QHbUnIA/default.jpg
-  video_transcript_file: https://open-learning-course-data-rc.s3.amazonaws.com/18-01-single-variable-calculus-fall-2006/4c94bc71ca3950ce8909675e367d6a5c_MK_0QHbUnIA.pdf
+  video_transcript_file: /courses/18-01-single-variable-calculus-fall-2006/4c94bc71ca3950ce8909675e367d6a5c_MK_0QHbUnIA.pdf
 video_metadata:
   youtube_id: MK_0QHbUnIA
 ---

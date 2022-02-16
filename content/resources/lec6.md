@@ -2,8 +2,13 @@
 content_type: resource
 description: Lecture notes on topics exponential and log, logarithmic differentiation,
   and hyperbolic functions.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/18-01-single-variable-calculus-fall-2006/f9af0e98490296c99d330faf47389507_lec6.pdf
+file: /media/courses/18-01-single-variable-calculus-fall-2006/f9af0e98490296c99d330faf47389507_lec6.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+ocw_type: OCWFile
+parent_title: Lecture Notes
+parent_type: CourseSection
 resourcetype: Document
 title: 'Lecture 6: Exponential and Log, Logarithmic Differentiation, Hyperbolic Functions'
 uid: f9af0e98-4902-96c9-9d33-0faf47389507

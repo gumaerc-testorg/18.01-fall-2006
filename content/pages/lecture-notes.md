@@ -1,5 +1,8 @@
 ---
 content_type: page
+learning_resource_types:
+- Lecture Notes
+ocw_type: CourseSection
 title: Lecture Notes
 uid: 6005d379-62c4-200a-f129-7fe3c6e6007a
 ---
@@ -13,7 +16,7 @@ SES #
 {{< thopen >}}
 TOPICS
 {{< thclose >}}
-{{< thopen >}}
+{{< thopen colspan="2" >}}
 LECTURE NOTES
 {{< thclose >}}
 
@@ -36,7 +39,7 @@ Derivatives, slope, velocity, rate of change
 {{< tdopen >}}
 ([PDF - 1.1 MB]({{< baseurl >}}/resources/lec1))
 {{< tdclose >}}
-{{< tdopen >}}
+{{< tdopen rowspan="8" >}}
 Ses #1-7 complete ([PDF - 5.2 MB]({{< baseurl >}}/resources/unit1_sept08))
 {{< tdclose >}}
 
@@ -159,7 +162,7 @@ Linear and quadratic approximations
 {{< tdopen >}}
 ([PDF]({{< baseurl >}}/resources/lec9))
 {{< tdclose >}}
-{{< tdopen >}}
+{{< tdopen rowspan="9" >}}
 Ses #9-16 complete ([PDF - 6.9 MB]({{< baseurl >}}/resources/unit2_sept08))
 {{< tdclose >}}
 
@@ -282,7 +285,7 @@ Definite integrals
 {{< tdopen >}}
 ([PDF]({{< baseurl >}}/resources/lec18))
 {{< tdclose >}}
-{{< tdopen >}}
+{{< tdopen rowspan="8" >}}
 Ses #18-25 complete ([PDF - 8.6 MB]({{< baseurl >}}/resources/unit3_who_sept24))
 {{< tdclose >}}
 
@@ -387,7 +390,7 @@ Trigonometric integrals and substitution
 {{< tdopen >}}
 ([PDF]({{< baseurl >}}/resources/lec26))
 {{< tdclose >}}
-{{< tdopen >}}
+{{< tdopen rowspan="13" >}}
 Ses #26-38 complete ([PDF - 8.6 MB]({{< baseurl >}}/resources/unit4_oct3_08))
 {{< tdclose >}}
 
