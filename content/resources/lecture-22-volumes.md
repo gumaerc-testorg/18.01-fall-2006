@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
@@ -11,6 +12,7 @@ parent_type: CourseSection
 related_resources_text: Lecture Notes ([PDF - 1.7MB](resources/lec22))
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Lecture 22: Volumes'
 uid: 9eb8d946-6728-b938-7a14-2a170345e611
 video_files:

@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection
+parent_uid: adc88628-f4af-afbd-2575-962ba651df76
 resourcetype: Document
 title: Unit 2 Review
 uid: 942f311e-64ce-a77d-b589-a3557b062025

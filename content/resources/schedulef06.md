@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection
+parent_uid: adc88628-f4af-afbd-2575-962ba651df76
 resourcetype: Document
 title: Course Outline
 uid: 25808dab-1504-a9b2-f2a5-82abee50e112

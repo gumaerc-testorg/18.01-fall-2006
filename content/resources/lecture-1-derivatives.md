@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
@@ -11,6 +12,7 @@ parent_type: CourseSection
 related_resources_text: Lecture Notes ([PDF - 1.1MB](resources/lec1))
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Lecture 1: Rate of Change'
 uid: 5b3c6287-a98c-4b77-d8e4-e18a71d69729
 video_files:

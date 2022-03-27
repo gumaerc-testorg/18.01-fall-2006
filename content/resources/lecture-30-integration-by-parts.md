@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
@@ -11,6 +12,7 @@ parent_type: CourseSection
 related_resources_text: Lecture Notes ([PDF - 1.4MB](resources/lec30))
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Lecture 30: Integration by Parts'
 uid: d5f979ee-2192-0fdc-9d43-6d2a8a135b97
 video_files:

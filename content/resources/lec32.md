@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 6005d379-62c4-200a-f129-7fe3c6e6007a
 resourcetype: Document
 title: 'Lecture 32: Polar Co-ordinates, Area in Polar Co-ordinates'
 uid: 812b038d-4207-9f12-b9c8-2df443eab41c

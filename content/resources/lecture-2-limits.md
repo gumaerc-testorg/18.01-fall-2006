@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
@@ -11,6 +12,7 @@ parent_type: CourseSection
 related_resources_text: Lecture Notes ([PDF - 2.6MB](resources/lec2))
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Lecture 2: Limits'
 uid: 88b1335e-1e63-bc67-4150-043abc178406
 video_files:

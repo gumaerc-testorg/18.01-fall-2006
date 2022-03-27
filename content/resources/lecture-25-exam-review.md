@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
@@ -11,6 +12,7 @@ parent_type: CourseSection
 related_resources_text: Lecture Notes ([PDF](resources/lec25))
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Lecture 25: Exam 3 Review'
 uid: 887ff0e3-a1fc-14c0-e697-8dbb4b02ba97
 video_files:

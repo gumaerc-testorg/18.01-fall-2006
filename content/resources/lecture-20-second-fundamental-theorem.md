@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
@@ -11,6 +12,7 @@ parent_type: CourseSection
 related_resources_text: Lecture Notes ([PDF](resources/lec20))
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Lecture 20: Second Fundamental Theorem'
 uid: 6881ac69-9055-01da-b014-9c876ca7d14a
 video_files:

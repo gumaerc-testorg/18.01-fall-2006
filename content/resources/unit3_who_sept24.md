@@ -11,6 +11,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 6005d379-62c4-200a-f129-7fe3c6e6007a
 resourcetype: Document
 title: 'Ses #18-25 Complete'
 uid: 04b5c4f7-9b8f-8fd8-ab1a-1af71e46b752

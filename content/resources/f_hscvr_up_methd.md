@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
+parent_uid: 10aa4129-34a5-3f66-49d1-9398bf5e5220
 resourcetype: Document
 title: Heaviside's Cover-up Method
 uid: dda2e5c7-522a-c8cd-77fb-a8ba9f8524ac

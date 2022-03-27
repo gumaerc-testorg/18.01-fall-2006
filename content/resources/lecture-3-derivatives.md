@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
@@ -11,6 +12,7 @@ parent_type: CourseSection
 related_resources_text: Lecture Notes ([PDF](resources/lec3))
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Lecture 3: Derivatives'
 uid: 849fb09b-0af2-0542-26c8-d64da7351546
 video_files:

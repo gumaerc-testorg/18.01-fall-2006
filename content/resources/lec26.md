@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 6005d379-62c4-200a-f129-7fe3c6e6007a
 resourcetype: Document
 title: 'Lecture 26: Trigonometric Integrals and Substitution'
 uid: b25e2ddd-2937-4602-0ae7-8af50cb30372

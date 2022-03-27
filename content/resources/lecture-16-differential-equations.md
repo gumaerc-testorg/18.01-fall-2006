@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
@@ -11,6 +12,7 @@ parent_type: CourseSection
 related_resources_text: Lecture Notes ([PDF](resources/lec16))
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Lecture 16: Differential Equations'
 uid: 8e7d73ab-39d1-8888-c914-96878d778e29
 video_files:

@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
@@ -11,6 +12,7 @@ parent_type: CourseSection
 related_resources_text: Lecture Notes ([PDF](resources/lec35))
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Lecture 36: Improper Integrals'
 uid: 85e85d6f-9703-061c-0a5e-9b4301af97e0
 video_files:

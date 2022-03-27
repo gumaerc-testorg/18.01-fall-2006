@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
@@ -11,6 +12,7 @@ parent_type: CourseSection
 related_resources_text: Lecture Notes ([PDF](resources/lec9))
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Lecture 9: Linear and Quadratic Approximations'
 uid: 47b035d9-bd94-cbaf-3357-860b87c1ba47
 video_files:

@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
@@ -11,6 +12,7 @@ parent_type: CourseSection
 related_resources_text: Lecture Notes ([PDF](resources/lec15))
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Lecture 15: Antiderivatives'
 uid: e654f340-1ba4-9007-df11-bed5f11f3a9f
 video_files:

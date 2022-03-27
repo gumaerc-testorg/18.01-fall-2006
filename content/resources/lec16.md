@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 6005d379-62c4-200a-f129-7fe3c6e6007a
 resourcetype: Document
 title: 'Lecture 16: Differential Equations and Separation of Variables'
 uid: 991e10d1-7c52-7483-d3d4-1d83a7313536

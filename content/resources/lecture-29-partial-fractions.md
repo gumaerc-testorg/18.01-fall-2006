@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
@@ -11,6 +12,7 @@ parent_type: CourseSection
 related_resources_text: Lecture Notes ([PDF](resources/lec29))
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Lecture 29: Partial Fractions'
 uid: 08776ee8-e6ac-a279-871a-427509481f68
 video_files:

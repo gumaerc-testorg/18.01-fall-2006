@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
@@ -11,6 +12,7 @@ parent_type: CourseSection
 related_resources_text: Lecture Notes ([PDF](resources/lec31))
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Lecture 31: Parametric Equations'
 uid: a25afba3-4c5e-aa1e-2b4e-f1c9b9a66f80
 video_files:

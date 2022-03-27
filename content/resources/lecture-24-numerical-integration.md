@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
@@ -11,6 +12,7 @@ parent_type: CourseSection
 related_resources_text: Lecture Notes ([PDF - 1.1MB](resources/lec24))
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Lecture 24: Numerical Integration'
 uid: 2e635059-6694-f1b8-d54c-7553bd491fd4
 video_files:

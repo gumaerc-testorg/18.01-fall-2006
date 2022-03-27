@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
@@ -11,6 +12,7 @@ parent_type: CourseSection
 related_resources_text: Lecture Notes ([PDF](resources/lec5))
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Lecture 5: Implicit Differentiation'
 uid: 301384af-45eb-f261-ef9f-6e999baa318e
 video_files:

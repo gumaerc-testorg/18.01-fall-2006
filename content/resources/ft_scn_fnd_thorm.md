@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
+parent_uid: 10aa4129-34a5-3f66-49d1-9398bf5e5220
 resourcetype: Document
 title: Second Fundamental Theorem
 uid: 5ee9af81-a652-866a-d75e-e70e4c4a07c7

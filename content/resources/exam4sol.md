@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection
+parent_uid: adc88628-f4af-afbd-2575-962ba651df76
 resourcetype: Document
 title: Exam 4 Solutions
 uid: e5f819f9-8b7a-b0e4-2a38-ff9ef5960c0d

@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
+parent_uid: 10aa4129-34a5-3f66-49d1-9398bf5e5220
 resourcetype: Document
 title: Exponentials and Logarithms
 uid: bdc00eb9-5387-b745-a513-f2ec3f877afd

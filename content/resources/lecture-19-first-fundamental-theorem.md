@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
@@ -11,6 +12,7 @@ parent_type: CourseSection
 related_resources_text: Lecture Notes ([PDF](resources/lec19))
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Lecture 19: First Fundamental Theorem'
 uid: e46c4863-4a14-6a01-c759-fa5a35a707fb
 video_files:

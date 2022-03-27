@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
@@ -11,6 +12,7 @@ parent_type: CourseSection
 related_resources_text: Lecture Notes ([PDF - 1.4MB](resources/lec21))
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Lecture 21: Applications to Logarithms'
 uid: 45369951-a1bb-4bf2-c122-411a7a2ab2f2
 video_files:

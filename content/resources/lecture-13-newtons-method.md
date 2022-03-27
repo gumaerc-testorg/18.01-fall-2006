@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
@@ -11,6 +12,7 @@ parent_type: CourseSection
 related_resources_text: Lecture Notes ([PDF - 1.2MB](resources/lec13))
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Lecture 13: Newton''s Method'
 uid: f8f4ca2a-3df5-f2b3-9402-1c5f4c023448
 video_files:

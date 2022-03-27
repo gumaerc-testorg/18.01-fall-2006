@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
@@ -11,6 +12,7 @@ parent_type: CourseSection
 related_resources_text: Lecture Notes ([PDF](resources/lec38))
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Lecture 39: Final Review'
 uid: 6d14c6cd-29a7-986a-a930-9192d825c43c
 video_files:

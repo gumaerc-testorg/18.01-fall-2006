@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
@@ -11,6 +12,7 @@ parent_type: CourseSection
 related_resources_text: Lecture Notes ([PDF](resources/lec18))
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Lecture 18: Definite Integrals'
 uid: d79fedc9-7923-7e79-dc4d-0d7ebc10f437
 video_files:

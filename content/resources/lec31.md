@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 6005d379-62c4-200a-f129-7fe3c6e6007a
 resourcetype: Document
 title: 'Lecture 31: Parametric Equations, Arclength, Surface Area'
 uid: 4e595a52-d48e-ce2a-2d6b-9cc8fd71136a

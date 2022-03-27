@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
+parent_uid: 10aa4129-34a5-3f66-49d1-9398bf5e5220
 resourcetype: Document
 title: Average Value
 uid: e13351c2-81c7-b7d4-9d24-aae95b0b18ff

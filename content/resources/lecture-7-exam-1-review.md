@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
@@ -11,6 +12,7 @@ parent_type: CourseSection
 related_resources_text: Lecture Notes ([PDF](resources/lec7))
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Lecture 7: Exam 1 Review'
 uid: dad5a269-6a83-7aad-9687-f7693e66a6ee
 video_files:

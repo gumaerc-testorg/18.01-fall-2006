@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
@@ -11,6 +12,7 @@ parent_type: CourseSection
 related_resources_text: Lecture Notes ([PDF - 1.1MB](resources/lec11))
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Lecture 11: Max-min'
 uid: 73974e46-6246-212b-99fe-c8cd8d4548a1
 video_files:

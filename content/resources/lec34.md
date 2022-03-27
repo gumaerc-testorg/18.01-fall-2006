@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 6005d379-62c4-200a-f129-7fe3c6e6007a
 resourcetype: Document
 title: "Lecture 34: Indeterminate Forms- L'H\xF4spital's Rule"
 uid: fa89a691-b718-2cbd-4482-9cd38ecf2693

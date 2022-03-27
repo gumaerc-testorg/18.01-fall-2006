@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
@@ -11,6 +12,7 @@ parent_type: CourseSection
 related_resources_text: Lecture Notes ([PDF](resources/lec4))
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Lecture 4: Chain Rule'
 uid: 4fa53159-d8e5-33bd-9673-32e84ba4e629
 video_files:

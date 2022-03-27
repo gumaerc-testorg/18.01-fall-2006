@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
@@ -11,6 +12,7 @@ parent_type: CourseSection
 related_resources_text: Lecture Notes ([PDF](resources/lec26))
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Lecture 27: Trig Integrals'
 uid: e33009e8-365f-e67d-ef33-a653dea6368f
 video_files:

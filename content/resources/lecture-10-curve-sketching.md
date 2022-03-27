@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
@@ -11,6 +12,7 @@ parent_type: CourseSection
 related_resources_text: Lecture Notes ([PDF - 1.8MB](resources/lec10))
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Lecture 10: Curve Sketching'
 uid: 51576e19-a6f3-2aa4-f24b-a9fee8bdd486
 video_files:

@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
@@ -11,6 +12,7 @@ parent_type: CourseSection
 related_resources_text: Lecture Notes ([PDF](resources/exam4_review))
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Lecture 33: Exam 4 Review'
 uid: 5cb7d374-2f14-b8fc-86ae-023dfcd15cc6
 video_files:
