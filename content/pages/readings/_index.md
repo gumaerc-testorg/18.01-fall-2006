@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides information on reading assignments for each lecture
+  session.
 learning_resource_types:
 - Readings
 ocw_type: CourseSection
@@ -11,7 +13,7 @@ Listed in the table below are reading assignments for each lecture session.
 
 "Text" refers to the course textbook: Simmons, George F. _Calculus with Analytic Geometry_. 2nd ed. New York, NY: McGraw-Hill, October 1, 1996. ISBN: 9780070576421.
 
-"Notes" refers to the [course reader]({{< baseurl >}}/pages/readings/course-reader): 18.01/18.01A Supplementary Notes, Exercises and Solutions; Jerison, D., and A. Mattuck. _Calculus 1_.
+"Notes" refers to the {{% resource_link 98fdab81-f6f5-a256-24a5-128fe1261e9b "course reader" %}}: 18.01/18.01A Supplementary Notes, Exercises and Solutions; Jerison, D., and A. Mattuck. _Calculus 1_.
 
 {{< tableopen >}}
 {{< theadopen >}}

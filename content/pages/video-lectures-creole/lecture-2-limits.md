@@ -1,5 +1,9 @@
 ---
 content_type: page
+description: "As a proof-of-concept, OCW collaborated with Universit\xE9 Cara\xEF\
+  be, Mr. Men\xE8s Dejoie (Haitian Educators League for Progress), and Professors\
+  \ Alfred No\xEBl (UMass-Boston) and Michel DeGraff (MIT) to produce a translated\
+  \ caption file for a lecture in MIT's 18.01 Single Variable Calculus."
 learning_resource_types: []
 ocw_type: CourseSection
 parent_title: Video Lectures - Creole

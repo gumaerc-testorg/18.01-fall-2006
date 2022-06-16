@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section features the same lectures presented in the Video Lectures
+  section, but include Creole subtitles.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Video Lectures - Creole

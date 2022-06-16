@@ -5,11 +5,12 @@ end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: Video Lectures
 parent_type: CourseSection
-related_resources_text: Lecture Notes ([PDF](resources/lec7))
+related_resources_text: Lecture Notes ([PDF](/courses/18-01-single-variable-calculus-fall-2006/resources/lec7))
 resource_index_text: ''
 resourcetype: Video
 start_time: ''
@@ -29,3 +30,6 @@ N_ote: the review for the exam in lecture 7 is not comprehensive because the stu
 **Topics covered:** Exam 1 review
 
 **Instructor:** Prof. David Jerison
+
+
+

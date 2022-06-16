@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /media/courses/18-01-single-variable-calculus-fall-2006/d37dbf3b71f85754cee509c6f7b8f490_CXKoCMVqM9s.pdf
+file: /courses/18-01-single-variable-calculus-fall-2006/d37dbf3b71f85754cee509c6f7b8f490_CXKoCMVqM9s.pdf
 file_type: application/pdf
 learning_resource_types: []
 ocw_type: OCWFile

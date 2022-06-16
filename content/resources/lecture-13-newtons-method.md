@@ -5,11 +5,12 @@ end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: Video Lectures
 parent_type: CourseSection
-related_resources_text: Lecture Notes ([PDF - 1.2MB](resources/lec13))
+related_resources_text: Lecture Notes ([PDF - 1.2MB](/courses/18-01-single-variable-calculus-fall-2006/resources/lec13))
 resource_index_text: ''
 resourcetype: Video
 start_time: ''
@@ -27,3 +28,6 @@ video_metadata:
 **Topics covered:** Newton's method and other applications
 
 **Instructor:** Prof. David Jerison
+
+
+

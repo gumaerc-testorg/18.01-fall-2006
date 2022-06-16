@@ -1,5 +1,8 @@
 ---
 content_type: page
+description: This section provides notes written by Prof. Arthur Mattuck that are
+  designed to supplement the textbook. The exercises and solutions were written by
+  Prof. David Jerison, except for exercise section 7 by Prof. Mattuck.
 learning_resource_types:
 - Readings
 ocw_type: CourseSection
@@ -33,7 +36,7 @@ TOPICS
 G
 {{< tdclose >}}
 {{< tdopen >}}
-Graphing functions ([PDF]({{< baseurl >}}/resources/g_graphng_fnctns))
+Graphing functions ({{% resource_link de1c599e-3866-2bfe-32ce-4082e767cad0 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -42,7 +45,7 @@ Graphing functions ([PDF]({{< baseurl >}}/resources/g_graphng_fnctns))
 C
 {{< tdclose >}}
 {{< tdopen >}}
-Continuity and discontinuity ([PDF]({{< baseurl >}}/resources/c_cntnt_dscntnt))
+Continuity and discontinuity ({{% resource_link 08a6c625-6409-9e85-ab31-0ca0db1e2182 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -51,7 +54,7 @@ Continuity and discontinuity ([PDF]({{< baseurl >}}/resources/c_cntnt_dscntnt))
 X
 {{< tdclose >}}
 {{< tdopen >}}
-Exponentials and logarithms ([PDF]({{< baseurl >}}/resources/xxpnentl_lgrthm))
+Exponentials and logarithms ({{% resource_link bdc00eb9-5387-b745-a513-f2ec3f877afd "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -60,7 +63,7 @@ Exponentials and logarithms ([PDF]({{< baseurl >}}/resources/xxpnentl_lgrthm))
 A
 {{< tdclose >}}
 {{< tdopen >}}
-Approximation ([PDF]({{< baseurl >}}/resources/a_approximations))
+Approximation ({{% resource_link ea98a7f8-029b-275f-7cb9-047f87bc4a29 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -69,7 +72,7 @@ Approximation ([PDF]({{< baseurl >}}/resources/a_approximations))
 MVT
 {{< tdclose >}}
 {{< tdopen >}}
-Mean-value theorem ([PDF]({{< baseurl >}}/resources/mvt_mns_vluethrm))
+Mean-value theorem ({{% resource_link 4dbb60ed-1403-fc26-16e3-37fe9fb43224 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -78,7 +81,7 @@ Mean-value theorem ([PDF]({{< baseurl >}}/resources/mvt_mns_vluethrm))
 PI
 {{< tdclose >}}
 {{< tdopen >}}
-Properties of definite integrals ([PDF]({{< baseurl >}}/resources/pi_pr_dfntintgrl))
+Properties of definite integrals ({{% resource_link 1e8fe8c3-5473-18a2-648a-ebc582c55e54 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -87,7 +90,7 @@ Properties of definite integrals ([PDF]({{< baseurl >}}/resources/pi_pr_dfntintg
 FT
 {{< tdclose >}}
 {{< tdopen >}}
-The second fundamental theorem of calculus ([PDF]({{< baseurl >}}/resources/ft_scn_fnd_thorm))
+The second fundamental theorem of calculus ({{% resource_link 5ee9af81-a652-866a-d75e-e70e4c4a07c7 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -96,7 +99,7 @@ The second fundamental theorem of calculus ([PDF]({{< baseurl >}}/resources/ft_s
 AV
 {{< tdclose >}}
 {{< tdopen >}}
-Average value ([PDF]({{< baseurl >}}/resources/av_average_value))
+Average value ({{% resource_link e13351c2-81c7-b7d4-9d24-aae95b0b18ff "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -105,7 +108,7 @@ Average value ([PDF]({{< baseurl >}}/resources/av_average_value))
 F
 {{< tdclose >}}
 {{< tdopen >}}
-Heaviside's cover-up method ([PDF]({{< baseurl >}}/resources/f_hscvr_up_methd))
+Heaviside's cover-up method ({{% resource_link dda2e5c7-522a-c8cd-77fb-a8ba9f8524ac "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -114,7 +117,7 @@ Heaviside's cover-up method ([PDF]({{< baseurl >}}/resources/f_hscvr_up_methd))
 INT
 {{< tdclose >}}
 {{< tdopen >}}
-Improper integrals ([PDF]({{< baseurl >}}/resources/int_imp_integrl))
+Improper integrals ({{% resource_link f8a4294e-bb7f-7bb0-4f6d-80c404696934 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -142,7 +145,7 @@ TOPICS
 E
 {{< tdclose >}}
 {{< tdopen >}}
-Exercises sections 1-7 (starred exercises are not solved in section S.) ([PDF - 2.3 MB]({{< baseurl >}}/resources/e_exrcs_scsn_1_7))
+Exercises sections 1-7 (starred exercises are not solved in section S.) ({{% resource_link aa64ddab-dcb0-3206-c7a8-ee3d1a1cdcd8 "PDF - 2.3 MB" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -151,7 +154,7 @@ Exercises sections 1-7 (starred exercises are not solved in section S.) ([PDF - 
 S
 {{< tdclose >}}
 {{< tdopen >}}
-Solutions to exercises ([PDF - 4.1 MB]({{< baseurl >}}/resources/s_solutns_exrcis))
+Solutions to exercises ({{% resource_link 50647076-a1dc-45c3-86dc-efa1605b226a "PDF - 4.1 MB" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -160,7 +163,7 @@ Solutions to exercises ([PDF - 4.1 MB]({{< baseurl >}}/resources/s_solutns_exrci
 RP
 {{< tdclose >}}
 {{< tdopen >}}
-Review problems and solutions RP1-RP5 ([PDF]({{< baseurl >}}/resources/rp_revw_prob_sol))
+Review problems and solutions RP1-RP5 ({{% resource_link dde4ca7b-6e22-de67-8637-3506604e2b1c "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}

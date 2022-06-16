@@ -1,5 +1,7 @@
 ---
 content_type: video_gallery
+description: This section contains the video index and videos for the various topics
+  of the course.
 is_media_gallery: true
 learning_resource_types:
 - Lecture Videos
@@ -46,7 +48,7 @@ videos:
   website: 18-01-single-variable-calculus-fall-2006
 ---
 
-These video lectures of Professor David Jerison teaching 18.01 were recorded live in the Fall of 2007 and do not correspond precisely to the lectures taught in the Fall of 2006 (e.g., the [lecture notes]({{< baseurl >}}/pages/lecture-notes)).
+These video lectures of Professor David Jerison teaching 18.01 were recorded live in the Fall of 2007 and do not correspond precisely to the lectures taught in the Fall of 2006 (e.g., the {{% resource_link 6005d379-62c4-200a-f129-7fe3c6e6007a "lecture notes" %}}).
 
 _Note: Videos were not recorded during sessions 8, 17, 27, and 33 as these were in-class exams._
 

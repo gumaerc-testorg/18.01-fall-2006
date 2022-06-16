@@ -1,5 +1,9 @@
 ---
 content_type: page
+description: 'This section provides additional resources from the course, including
+  tips for success in undergraduate math courses, common erros in undergraduate mathematics,
+  a list of calculus problems, and assorted applets to help visualize mathematical
+  concepts. '
 learning_resource_types: []
 ocw_type: CourseSection
 title: Related Resources
