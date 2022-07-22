@@ -5,6 +5,7 @@ file: /courses/18-01-single-variable-calculus-fall-2006/812b038d42079f12b9c82df4
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: 'Lecture 32: Polar Co-ordinates, Area in Polar Co-ordinates'
 uid: 812b038d-4207-9f12-b9c8-2df443eab41c
 ---
 Lecture notes on polar coordinates and area in polar coordinates.
-

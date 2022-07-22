@@ -5,6 +5,7 @@ file: /courses/18-01-single-variable-calculus-fall-2006/3cd98c68cec64e9214c8c900
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: 'Lecture 20: Second Fundamental Theorem'
 uid: 3cd98c68-cec6-4e92-14c8-c9003f6cf983
 ---
 Lecture notes on the second fundamental theorem of calculus.
-

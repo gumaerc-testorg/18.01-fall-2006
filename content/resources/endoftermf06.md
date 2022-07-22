@@ -6,6 +6,7 @@ file: /courses/18-01-single-variable-calculus-fall-2006/d71c273968f16a144ab0cf2b
 file_type: application/pdf
 learning_resource_types:
 - Exams
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: End of Term
 uid: d71c2739-68f1-6a14-4ab0-cf2bcfa0772f
 ---
 This handout provides information about the final exam and the end of the term.
-

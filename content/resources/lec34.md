@@ -5,6 +5,7 @@ file: /courses/18-01-single-variable-calculus-fall-2006/fa89a691b7182cbd44829cd3
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: "Lecture 34: Indeterminate Forms- L'H\xF4spital's Rule"
 uid: fa89a691-b718-2cbd-4482-9cd38ecf2693
 ---
 Lecture notes on indeterminate forms and L'Hôspital's rule.
-

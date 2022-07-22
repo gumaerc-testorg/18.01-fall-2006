@@ -5,6 +5,7 @@ file: /courses/18-01-single-variable-calculus-fall-2006/c07ab6e13cf8684dd98b2650
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: 'Lecture 15: Differentials and Antiderivatives'
 uid: c07ab6e1-3cf8-684d-d98b-2650b64672fb
 ---
 Lecture notes on differentials, antiderivatives, and the method of substitution.
-

@@ -6,6 +6,7 @@ file: /courses/18-01-single-variable-calculus-fall-2006/c9b0814986c30ee6aca81d0c
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: 'Lecture 23: Work, Average Value, Probability'
 uid: c9b08149-86c3-0ee6-aca8-1d0c9b3614d6
 ---
 Lecture notes on application of integration to average value, volume by slices, work, average value, and probability.
-

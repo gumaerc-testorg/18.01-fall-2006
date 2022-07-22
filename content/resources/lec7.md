@@ -7,6 +7,7 @@ file: /courses/18-01-single-variable-calculus-fall-2006/a30756fe9d577184f205b09b
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -16,4 +17,3 @@ title: 'Lecture 7: Continuation and Exam Review'
 uid: a30756fe-9d57-7184-f205-b09bc6d6d005
 ---
 Lecture notes with a review of materials for the first exam.  Topics include hyperbolic sine and cosine, general differentiation, implicit differentiation, and specific differentiation formulas.
-

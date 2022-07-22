@@ -5,6 +5,7 @@ end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
@@ -30,6 +31,4 @@ N_ote: the review for the exam in lecture 7 is not comprehensive because the stu
 **Topics covered:** Exam 1 review
 
 **Instructor:** Prof. David Jerison
-
-
 

@@ -5,6 +5,7 @@ file: /courses/18-01-single-variable-calculus-fall-2006/08a6c62564099e85ab310ca0
 file_type: application/pdf
 learning_resource_types:
 - Readings
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: Continuity and Discontinuity
 uid: 08a6c625-6409-9e85-ab31-0ca0db1e2182
 ---
 Supplement to the textbook on continuity and discontinuity.
-

@@ -5,6 +5,7 @@ file: /courses/18-01-single-variable-calculus-fall-2006/6674b3af71a312ed81359e72
 file_type: application/pdf
 learning_resource_types:
 - Exams
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: Unit 2 Review
 uid: 6674b3af-71a3-12ed-8135-9e727d376ef1
 ---
 Review materials for the second exam of the course.
-

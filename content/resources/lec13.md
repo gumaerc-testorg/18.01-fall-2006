@@ -5,6 +5,7 @@ file: /courses/18-01-single-variable-calculus-fall-2006/fb8c24f09aba8413984f8ce5
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: "Lecture 13: Newton\u2019s Method and Other Applications"
 uid: fb8c24f0-9aba-8413-984f-8ce5961586bd
 ---
 Lecture notes on Newton's method and other applications.
-

@@ -6,6 +6,7 @@ file: /courses/18-01-single-variable-calculus-fall-2006/f9af0e98490296c99d330faf
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: 'Lecture 6: Exponential and Log, Logarithmic Differentiation, Hyperbolic 
 uid: f9af0e98-4902-96c9-9d33-0faf47389507
 ---
 Lecture notes on topics exponential and log, logarithmic differentiation, and hyperbolic functions.
-

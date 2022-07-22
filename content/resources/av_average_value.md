@@ -5,6 +5,7 @@ file: /courses/18-01-single-variable-calculus-fall-2006/e13351c281c7b7d49d24aae9
 file_type: application/pdf
 learning_resource_types:
 - Readings
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: Average Value
 uid: e13351c2-81c7-b7d4-9d24-aae95b0b18ff
 ---
 Supplement to the textbook on average value.
-

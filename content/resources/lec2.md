@@ -6,6 +6,7 @@ file: /courses/18-01-single-variable-calculus-fall-2006/acebd5cc8fe0315270d48668
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: 'Lecture 2: Limits, Continuity, and Trigonometric Limits'
 uid: acebd5cc-8fe0-3152-70d4-86685739d08f
 ---
 Lecture notes on the "rate of change" interpretation of the derivative, limits and continuity, and trigonometric limits.
-

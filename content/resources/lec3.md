@@ -6,6 +6,7 @@ file: /courses/18-01-single-variable-calculus-fall-2006/23c2c1b1ab31c9f10745b18e
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: 'Lecture 3: Derivatives of Products, Quotients, Sine, and Cosine'
 uid: 23c2c1b1-ab31-c9f1-0745-b18e7b0bf131
 ---
 Lecture notes on derivative formulas, derivatives of products, derivative of sine and cosine. and quotient formula.
-

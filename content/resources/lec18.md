@@ -5,6 +5,7 @@ file: /courses/18-01-single-variable-calculus-fall-2006/d1b3d809b6505825b5cde0ce
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: 'Lecture 18: Definite Integrals'
 uid: d1b3d809-b650-5825-b5cd-e0cee823fa0f
 ---
 Lecture notes on definite integrals.
-

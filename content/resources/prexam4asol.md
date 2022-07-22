@@ -5,6 +5,7 @@ file: /courses/18-01-single-variable-calculus-fall-2006/631a0a303de0c9478613cd19
 file_type: application/pdf
 learning_resource_types:
 - Exams
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: Practice Questions for Exam 4
 uid: 631a0a30-3de0-c947-8613-cd19158ec36a
 ---
 Practice questions for the fourth exam of the course.
-

@@ -5,6 +5,7 @@ file: /courses/18-01-single-variable-calculus-fall-2006/c6a2d4081848972d197c4133
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: 'Lecture 1: Derivatives, Slope, Velocity, and Rate of Change'
 uid: c6a2d408-1848-972d-197c-41332e604d49
 ---
 Lecture notes on derivatives, slope, velocity, and rate of change.
-

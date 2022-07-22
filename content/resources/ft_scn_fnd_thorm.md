@@ -5,6 +5,7 @@ file: /courses/18-01-single-variable-calculus-fall-2006/5ee9af81a652866ad75ee70e
 file_type: application/pdf
 learning_resource_types:
 - Readings
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: Second Fundamental Theorem
 uid: 5ee9af81-a652-866a-d75e-e70e4c4a07c7
 ---
 Supplement to the textbook on the second fundamental theorem of calculus.
-

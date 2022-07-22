@@ -5,6 +5,7 @@ file: /courses/18-01-single-variable-calculus-fall-2006/bdc00eb95387b745a513f2ec
 file_type: application/pdf
 learning_resource_types:
 - Readings
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: Exponentials and Logarithms
 uid: bdc00eb9-5387-b745-a513-f2ec3f877afd
 ---
 Supplement to the textbook on exponentials and logarithms.
-

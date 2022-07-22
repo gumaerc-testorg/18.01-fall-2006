@@ -5,6 +5,7 @@ end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
@@ -30,6 +31,4 @@ _Note: Lecture 34 was an exam session. No video was recorded._
 **Topics covered:** Exam 4 review
 
 **Instructor:** Prof. David Jerison
-
-
 

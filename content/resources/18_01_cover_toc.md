@@ -5,6 +5,7 @@ file: /courses/18-01-single-variable-calculus-fall-2006/e15cd25ee432b07f9c2f464f
 file_type: application/pdf
 learning_resource_types:
 - Readings
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: Table of Contents
 uid: e15cd25e-e432-b07f-9c2f-464fd29f7def
 ---
 Table of contents to the course textbook.
-

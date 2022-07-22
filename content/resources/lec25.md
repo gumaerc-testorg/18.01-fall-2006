@@ -6,6 +6,7 @@ file: /courses/18-01-single-variable-calculus-fall-2006/2a2c56d0665ea6c00add4962
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: 'Lecture 25: Exam 3 Review'
 uid: 2a2c56d0-665e-a6c0-0add-496287b1d41a
 ---
 Lecture notes with a review of integration for the third exam of the course.
-

@@ -4,6 +4,7 @@ description: ''
 file: /courses/18-01-single-variable-calculus-fall-2006/966e55f267816d6dbdcead88ca3a2240_BGE3wb7H2PA.pdf
 file_type: application/pdf
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 resourcetype: Document
 title: 3play pdf file

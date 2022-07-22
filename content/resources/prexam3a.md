@@ -5,6 +5,7 @@ file: /courses/18-01-single-variable-calculus-fall-2006/0b4e633c54bf010773bbbe1d
 file_type: application/pdf
 learning_resource_types:
 - Exams
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: Practice Questions for Exam 3
 uid: 0b4e633c-54bf-0107-73bb-be1dc8bf8dcc
 ---
 Practice questions for the third exam of the course.
-

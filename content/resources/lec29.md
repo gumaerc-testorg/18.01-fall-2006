@@ -5,6 +5,7 @@ file: /courses/18-01-single-variable-calculus-fall-2006/9715437d38fdfc4b91095d1b
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: 'Lecture 29: Partial Fractions'
 uid: 9715437d-38fd-fc4b-9109-5d1b20920b79
 ---
 Lecture notes on partial fractions and rational functions.
-

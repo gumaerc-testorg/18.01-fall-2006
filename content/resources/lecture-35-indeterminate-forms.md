@@ -5,6 +5,7 @@ end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
@@ -30,6 +31,4 @@ video_metadata:
 Note: This video lecture was recorded in the Fall of 2007 and corresponds to the lecture notes for lecture 34 taught in the Fall of 2006.
 
 **Instructor:** Prof. David Jerison
-
-
 

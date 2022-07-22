@@ -6,6 +6,7 @@ file: /courses/18-01-single-variable-calculus-fall-2006/dde4ca7b6e22de6786373506
 file_type: application/pdf
 learning_resource_types:
 - Readings
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: Review problems and solutions RP1-RP5
 uid: dde4ca7b-6e22-de67-8637-3506604e2b1c
 ---
 Handout containing review problems and solutions for section 1 to 7 of the course.
-

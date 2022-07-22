@@ -5,6 +5,7 @@ file: /courses/18-01-single-variable-calculus-fall-2006/4dbb60ed1403fc2616e337fe
 file_type: application/pdf
 learning_resource_types:
 - Readings
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: Mean-value Theorem
 uid: 4dbb60ed-1403-fc26-16e3-37fe9fb43224
 ---
 Supplement to the textbook on the two forms of the mean-value theorem.
-
