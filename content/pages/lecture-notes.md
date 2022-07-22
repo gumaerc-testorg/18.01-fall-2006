@@ -1,5 +1,9 @@
 ---
 content_type: page
+description: This section provides the lecture notes from the course.
+learning_resource_types:
+- Lecture Notes
+ocw_type: CourseSection
 title: Lecture Notes
 uid: 6005d379-62c4-200a-f129-7fe3c6e6007a
 ---
@@ -13,7 +17,7 @@ SES #
 {{< thopen >}}
 TOPICS
 {{< thclose >}}
-{{< thopen >}}
+{{< thopen colspan="2" >}}
 LECTURE NOTES
 {{< thclose >}}
 
@@ -34,10 +38,10 @@ LECTURE NOTES
 Derivatives, slope, velocity, rate of change
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF - 1.1 MB]({{< baseurl >}}/resources/lec1))
+({{% resource_link c6a2d408-1848-972d-197c-41332e604d49 "PDF - 1.1 MB" %}})
 {{< tdclose >}}
-{{< tdopen >}}
-Ses #1-7 complete ([PDF - 5.2 MB]({{< baseurl >}}/resources/unit1_sept08))
+{{< tdopen rowspan="8" >}}
+Ses #1-7 complete ({{% resource_link c80e8c2f-ae48-adb1-0be5-78dffac3bb60 "PDF - 5.2 MB" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -55,7 +59,7 @@ Trigonometric limits
 
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF - 2.6 MB]({{< baseurl >}}/resources/lec2))
+({{% resource_link acebd5cc-8fe0-3152-70d4-86685739d08f "PDF - 2.6 MB" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -67,7 +71,7 @@ Trigonometric limits
 Derivatives of products, quotients, sine, cosine
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/lec3))
+({{% resource_link 23c2c1b1-ab31-c9f1-0745-b18e7b0bf131 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -85,7 +89,7 @@ Higher derivatives
 
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/lec4))
+({{% resource_link b8051c7c-7a28-e2cd-0366-7de9dd4865fb "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -97,7 +101,7 @@ Higher derivatives
 Implicit differentiation, inverses
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/lec5))
+({{% resource_link 18d6a86a-30a4-bc04-6c5f-7034d47587f1 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -115,7 +119,7 @@ Logarithmic differentiation; hyperbolic functions
 
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/lec6))
+({{% resource_link f9af0e98-4902-96c9-9d33-0faf47389507 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -127,7 +131,7 @@ Logarithmic differentiation; hyperbolic functions
 Exam 1 review
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/lec7))
+({{% resource_link a30756fe-9d57-7184-f205-b09bc6d6d005 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -157,10 +161,10 @@ Exam 1 covering Ses #1-7
 Linear and quadratic approximations
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/lec9))
+({{% resource_link 40cb4180-7e6d-6737-3f32-99ce87c4d9b3 "PDF" %}})
 {{< tdclose >}}
-{{< tdopen >}}
-Ses #9-16 complete ([PDF - 6.9 MB]({{< baseurl >}}/resources/unit2_sept08))
+{{< tdopen rowspan="9" >}}
+Ses #9-16 complete ({{% resource_link 97124709-de1b-c662-ca39-fd2acfee25c0 "PDF - 6.9 MB" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -172,7 +176,7 @@ Ses #9-16 complete ([PDF - 6.9 MB]({{< baseurl >}}/resources/unit2_sept08))
 Curve sketching
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF - 1.8 MB]({{< baseurl >}}/resources/lec10))
+({{% resource_link d41418f4-10d1-e11d-0e60-6a0fc8441b82 "PDF - 1.8 MB" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -184,7 +188,7 @@ Curve sketching
 Max-min problems
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF - 1.1 MB]({{< baseurl >}}/resources/lec11))
+({{% resource_link 8896949b-e9dd-2242-8b03-e64dbcd990af "PDF - 1.1 MB" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -196,7 +200,7 @@ Max-min problems
 Related rates
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF - 1.0 MB]({{< baseurl >}}/resources/lec12))
+({{% resource_link ba349815-5dba-a90b-2a82-c88174a18ee1 "PDF - 1.0 MB" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -208,7 +212,7 @@ Related rates
 Newton's method and other applications
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF - 1.2 MB]({{< baseurl >}}/resources/lec13))
+({{% resource_link fb8c24f0-9aba-8413-984f-8ce5961586bd "PDF - 1.2 MB" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -226,7 +230,7 @@ Inequalities
 
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/lec14))
+({{% resource_link 1a211af8-e486-0b63-b801-aa3d6e7a2e95 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -238,7 +242,7 @@ Inequalities
 Differentials, antiderivatives
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/lec15))
+({{% resource_link c07ab6e1-3cf8-684d-d98b-2650b64672fb "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -250,7 +254,7 @@ Differentials, antiderivatives
 Differential equations, separation of variables
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/lec16))
+({{% resource_link 991e10d1-7c52-7483-d3d4-1d83a7313536 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -280,10 +284,10 @@ Exam 2 covering Ses #8-16
 Definite integrals
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/lec18))
+({{% resource_link d1b3d809-b650-5825-b5cd-e0cee823fa0f "PDF" %}})
 {{< tdclose >}}
-{{< tdopen >}}
-Ses #18-25 complete ([PDF - 8.6 MB]({{< baseurl >}}/resources/unit3_who_sept24))
+{{< tdopen rowspan="8" >}}
+Ses #18-25 complete ({{% resource_link 04b5c4f7-9b8f-8fd8-ab1a-1af71e46b752 "PDF - 8.6 MB" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -295,7 +299,7 @@ Ses #18-25 complete ([PDF - 8.6 MB]({{< baseurl >}}/resources/unit3_who_sept24))
 First fundamental theorem of calculus
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/lec19))
+({{% resource_link 817a2c46-ddc2-3e2e-fda2-47a79ddeed34 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -307,7 +311,7 @@ First fundamental theorem of calculus
 Second fundamental theorem
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/lec20))
+({{% resource_link 3cd98c68-cec6-4e92-14c8-c9003f6cf983 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -319,7 +323,7 @@ Second fundamental theorem
 Applications to logarithms and geometry
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF - 1.4 MB]({{< baseurl >}}/resources/lec21))
+({{% resource_link df90380a-9805-621e-488c-ac35fe009764 "PDF - 1.4 MB" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -331,7 +335,7 @@ Applications to logarithms and geometry
 Volumes by disks and shells
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF - 1.7 MB]({{< baseurl >}}/resources/lec22))
+({{% resource_link dcd410f2-64f6-61f8-ac1e-53ea6df740cc "PDF - 1.7 MB" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -343,7 +347,7 @@ Volumes by disks and shells
 Work, average value, probability
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF - 2.2 MB]({{< baseurl >}}/resources/lec23))
+({{% resource_link c9b08149-86c3-0ee6-aca8-1d0c9b3614d6 "PDF - 2.2 MB" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -355,7 +359,7 @@ Work, average value, probability
 Numerical integration
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF - 1.1 MB]({{< baseurl >}}/resources/lec24))
+({{% resource_link f141a3b7-7775-1126-8cd1-b1e1d21e38fb "PDF - 1.1 MB" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -367,7 +371,7 @@ Numerical integration
 Exam 3 review
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/lec25))
+({{% resource_link 2a2c56d0-665e-a6c0-0add-496287b1d41a "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -385,10 +389,10 @@ Exam 3 review
 Trigonometric integrals and substitution
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/lec26))
+({{% resource_link b25e2ddd-2937-4602-0ae7-8af50cb30372 "PDF" %}})
 {{< tdclose >}}
-{{< tdopen >}}
-Ses #26-38 complete ([PDF - 8.6 MB]({{< baseurl >}}/resources/unit4_oct3_08))
+{{< tdopen rowspan="13" >}}
+Ses #26-38 complete ({{% resource_link c7f91295-bbcc-5204-ad67-e84f7d42f408 "PDF - 8.6 MB" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -412,7 +416,7 @@ Exam 3 covering Ses #18-24
 Integration by inverse substitution; completing the square
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/lec28))
+({{% resource_link 27cbacec-1a85-47e1-76f6-d2367e244153 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -424,7 +428,7 @@ Integration by inverse substitution; completing the square
 Partial fractions
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/lec29))
+({{% resource_link 9715437d-38fd-fc4b-9109-5d1b20920b79 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -436,7 +440,7 @@ Partial fractions
 Integration by parts, reduction formulae
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF - 1.4 MB]({{< baseurl >}}/resources/lec30))
+({{% resource_link e2ae9ec8-7ea3-cb1a-02d0-2400c4c2a276 "PDF - 1.4 MB" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -448,7 +452,7 @@ Integration by parts, reduction formulae
 Parametric equations, arclength, surface area
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/lec31))
+({{% resource_link 4e595a52-d48e-ce2a-2d6b-9cc8fd71136a "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -468,9 +472,9 @@ Exam 4 review
 {{< tdopen >}}
 
 
-([PDF - 2.0 MB]({{< baseurl >}}/resources/lec32))
+({{% resource_link 812b038d-4207-9f12-b9c8-2df443eab41c "PDF - 2.0 MB" %}})
 
-([PDF]({{< baseurl >}}/resources/exam4_review))
+({{% resource_link 0202fa38-9304-9a6a-502c-4f7079eca657 "PDF" %}})
 
 
 {{< tdclose >}}
@@ -496,7 +500,7 @@ Exam 4 covering Ses #26-32
 Indeterminate forms - L'Hôspital's rule
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/lec34))
+({{% resource_link fa89a691-b718-2cbd-4482-9cd38ecf2693 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -508,7 +512,7 @@ Indeterminate forms - L'Hôspital's rule
 Improper integrals
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/lec35))
+({{% resource_link 6f787638-52e7-fd65-6a9a-a1dc67fef6ee "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -520,7 +524,7 @@ Improper integrals
 Infinite series and convergence tests
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF - 1.4 MB]({{< baseurl >}}/resources/lec36))
+({{% resource_link ba5ce991-638c-f628-5e43-1937132e5b32 "PDF - 1.4 MB" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -532,7 +536,7 @@ Infinite series and convergence tests
 Taylor's series
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/lec37))
+({{% resource_link f76ca4e4-4b2c-5b20-8dd6-f785ee1db93e "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -544,7 +548,7 @@ Taylor's series
 Final review
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/lec38))
+({{% resource_link 7cf354a7-d169-7b69-ad8b-7d28879b1edb "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}

@@ -1,5 +1,10 @@
 ---
 content_type: page
+description: This section provides information on reading assignments for each lecture
+  session.
+learning_resource_types:
+- Readings
+ocw_type: CourseSection
 title: Readings
 uid: 10aa4129-34a5-3f66-49d1-9398bf5e5220
 ---
@@ -8,7 +13,7 @@ Listed in the table below are reading assignments for each lecture session.
 
 "Text" refers to the course textbook: Simmons, George F. _Calculus with Analytic Geometry_. 2nd ed. New York, NY: McGraw-Hill, October 1, 1996. ISBN: 9780070576421.
 
-"Notes" refers to the [course reader]({{< baseurl >}}/pages/readings/course-reader): 18.01/18.01A Supplementary Notes, Exercises and Solutions; Jerison, D., and A. Mattuck. _Calculus 1_.
+"Notes" refers to the {{% resource_link 98fdab81-f6f5-a256-24a5-128fe1261e9b "course reader" %}}: 18.01/18.01A Supplementary Notes, Exercises and Solutions; Jerison, D., and A. Mattuck. _Calculus 1_.
 
 {{< tableopen >}}
 {{< theadopen >}}
@@ -596,7 +601,7 @@ Text pp. 439-442 (top), pp. 451-3 (skip proof in example 3), and pp. 455-457 (to
 Taylor's series
 {{< tdclose >}}
 {{< tdopen >}}
-Text 14.4 through p. 498 (bottom); skip everything involving the remainder term Rn (x), 14.3-p. 490 (top) and examples 1-5.
+Text 14.4 through p. 498 (bottom); skip everything involving the remainder term R{{< sub "n" >}} (x), 14.3-p. 490 (top) and examples 1-5.
 {{< tdclose >}}
 
 {{< trclose >}}
