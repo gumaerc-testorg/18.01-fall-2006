@@ -15,23 +15,19 @@ leftnav:
   name: Lecture Notes
   url: /pages/lecture-notes
   weight: 40
-- identifier: 5b8a52b8-e712-bb23-4bb7-9190e7f1e1ad
-  name: Assignments
-  url: /pages/assignments
-  weight: 50
-- identifier: adc88628-f4af-afbd-2575-962ba651df76
-  name: Exams
-  url: /pages/exams
-  weight: 60
-- identifier: 71c1ad1b-ad19-cb35-c6f7-cf74f4be9214
-  name: Related Resources
-  url: /pages/related-resources
-  weight: 70
 - identifier: eb1d53c3-c4c1-45f0-3327-e4698375e766
   name: Video Lectures
   url: /video_galleries/video-lectures
+  weight: 50
+- identifier: 5b8a52b8-e712-bb23-4bb7-9190e7f1e1ad
+  name: Assignments
+  url: /pages/assignments
+  weight: 60
+- identifier: adc88628-f4af-afbd-2575-962ba651df76
+  name: Exams
+  url: /pages/exams
+  weight: 70
+- identifier: 71c1ad1b-ad19-cb35-c6f7-cf74f4be9214
+  name: Related Resources
+  url: /pages/related-resources
   weight: 80
-- identifier: 34c980c2-7240-0d92-88b0-2ea31fe70122
-  name: Video Lectures - Creole
-  url: /pages/video-lectures-creole/
-  weight: 90
