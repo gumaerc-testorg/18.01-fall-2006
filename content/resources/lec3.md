@@ -3,6 +3,7 @@ content_type: resource
 description: Lecture notes on derivative formulas, derivatives of products, derivative
   of sine and cosine. and quotient formula.
 file: /courses/18-01-single-variable-calculus-fall-2006/23c2c1b1ab31c9f10745b18e7b0bf131_lec3.pdf
+file_size: 519779
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

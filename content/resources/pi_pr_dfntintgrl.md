@@ -2,6 +2,7 @@
 content_type: resource
 description: Supplement to the textbook on the properties of definite integrals.
 file: /courses/18-01-single-variable-calculus-fall-2006/1e8fe8c3547318a2648aebc582c55e54_pi_pr_dfntintgrl.pdf
+file_size: 179417
 file_type: application/pdf
 learning_resource_types:
 - Readings

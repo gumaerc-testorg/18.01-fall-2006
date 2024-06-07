@@ -4,6 +4,7 @@ description: 'Review materials for the first exam of the course. Topics include:
   differentiation formulas, implicit differentiation, and specific differentiation
   formulas.'
 file: /courses/18-01-single-variable-calculus-fall-2006/18a28c4c5da3c4fd876e376f1917d7ba_unit1_review.pdf
+file_size: 109227
 file_type: application/pdf
 learning_resource_types:
 - Exams

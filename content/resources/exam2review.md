@@ -2,6 +2,7 @@
 content_type: resource
 description: Review materials for the second exam of the course.
 file: /courses/18-01-single-variable-calculus-fall-2006/6674b3af71a312ed81359e727d376ef1_exam2review.pdf
+file_size: 101942
 file_type: application/pdf
 learning_resource_types:
 - Exams

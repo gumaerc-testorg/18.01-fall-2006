@@ -3,6 +3,7 @@ content_type: resource
 description: "Lecture notes on numerical integration, Riemann sums, the trapezoidal\
   \ rule, and Simpson\u2019s rule."
 file: /courses/18-01-single-variable-calculus-fall-2006/f141a3b7777511268cd1b1e1d21e38fb_lec24.pdf
+file_size: 1182500
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

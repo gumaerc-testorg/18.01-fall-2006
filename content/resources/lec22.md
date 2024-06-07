@@ -2,6 +2,7 @@
 content_type: resource
 description: Lecture notes on finding volume using disks and shells.
 file: /courses/18-01-single-variable-calculus-fall-2006/dcd410f264f661f8ac1e53ea6df740cc_lec22.pdf
+file_size: 1773808
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

@@ -3,6 +3,7 @@ content_type: resource
 description: Lecture notes on topics exponential and log, logarithmic differentiation,
   and hyperbolic functions.
 file: /courses/18-01-single-variable-calculus-fall-2006/f9af0e98490296c99d330faf47389507_lec6.pdf
+file_size: 699541
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
