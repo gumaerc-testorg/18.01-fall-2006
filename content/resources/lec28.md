@@ -3,6 +3,7 @@ content_type: resource
 description: Lecture notes on trigonometric substitutions, integration by inverse
   substitution, and completing the square.
 file: /courses/18-01-single-variable-calculus-fall-2006/27cbacec1a8547e176f6d2367e244153_lec28.pdf
+file_size: 874671
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

@@ -2,6 +2,7 @@
 content_type: resource
 description: Solutions to the third exam of the course.
 file: /courses/18-01-single-variable-calculus-fall-2006/0ebd4a5db190a7138644784bce3f8cd6_exam3sol.pdf
+file_size: 143987
 file_type: application/pdf
 learning_resource_types:
 - Exams

@@ -2,6 +2,7 @@
 content_type: resource
 description: Practice questions for the third exam of the course.
 file: /courses/18-01-single-variable-calculus-fall-2006/1b4cf3c7507f00625f5cd2680e84b2f2_prexam3b.pdf
+file_size: 115213
 file_type: application/pdf
 learning_resource_types:
 - Exams

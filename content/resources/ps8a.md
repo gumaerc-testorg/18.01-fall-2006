@@ -2,6 +2,7 @@
 content_type: resource
 description: Problem set on single variable calculus.
 file: /courses/18-01-single-variable-calculus-fall-2006/7b0ef3784e4eabf239d95286d01ca139_ps8a.pdf
+file_size: 149385
 file_type: application/pdf
 learning_resource_types:
 - Assignments

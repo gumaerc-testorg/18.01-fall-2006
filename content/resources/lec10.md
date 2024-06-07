@@ -2,6 +2,7 @@
 content_type: resource
 description: Lecture notes on curve sketching and 2nd derivative information.
 file: /courses/18-01-single-variable-calculus-fall-2006/d41418f410d1e11d0e606a0fc8441b82_lec10.pdf
+file_size: 1852844
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

@@ -2,6 +2,7 @@
 content_type: resource
 description: Image accompanying a video lecture.
 file: /courses/18-01-single-variable-calculus-fall-2006/fac249efe63c2df4a34f574b32161c0d_lec33.jpg
+file_size: 3699
 file_type: image/jpeg
 image_metadata:
   caption: ''

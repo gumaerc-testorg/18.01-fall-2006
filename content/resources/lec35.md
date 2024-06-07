@@ -3,6 +3,7 @@ content_type: resource
 description: Lecture notes on determining divergence and convergence, improper integrals,
   and improper integrals of the second type.
 file: /courses/18-01-single-variable-calculus-fall-2006/6f78763852e7fd656a9aa1dc67fef6ee_lec35.pdf
+file_size: 863826
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

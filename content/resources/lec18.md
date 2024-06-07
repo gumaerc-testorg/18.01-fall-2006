@@ -2,6 +2,7 @@
 content_type: resource
 description: Lecture notes on definite integrals.
 file: /courses/18-01-single-variable-calculus-fall-2006/d1b3d809b6505825b5cde0cee823fa0f_lec18.pdf
+file_size: 985183
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

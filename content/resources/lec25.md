@@ -3,6 +3,7 @@ content_type: resource
 description: Lecture notes with a review of integration for the third exam of the
   course.
 file: /courses/18-01-single-variable-calculus-fall-2006/2a2c56d0665ea6c00add496287b1d41a_lec25.pdf
+file_size: 607859
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

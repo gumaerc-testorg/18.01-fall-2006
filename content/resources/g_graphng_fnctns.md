@@ -2,6 +2,7 @@
 content_type: resource
 description: Supplement to the textbook on graphing functions.
 file: /courses/18-01-single-variable-calculus-fall-2006/de1c599e38662bfe32ce4082e767cad0_g_graphng_fnctns.pdf
+file_size: 573769
 file_type: application/pdf
 learning_resource_types:
 - Readings
