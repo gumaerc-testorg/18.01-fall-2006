@@ -3,6 +3,7 @@ content_type: resource
 description: Handout containing review problems and solutions for section 1 to 7 of
   the course.
 file: /courses/18-01-single-variable-calculus-fall-2006/dde4ca7b6e22de6786373506604e2b1c_rp_revw_prob_sol.pdf
+file_size: 428661
 file_type: application/pdf
 learning_resource_types:
 - Readings

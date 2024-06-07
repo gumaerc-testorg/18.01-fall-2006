@@ -2,6 +2,7 @@
 content_type: resource
 description: Handout containing an outline of topics covered over the entire course.
 file: /courses/18-01-single-variable-calculus-fall-2006/25808dab1504a9b2f2a582abee50e112_schedulef06.pdf
+file_size: 53209
 file_type: application/pdf
 learning_resource_types:
 - Exams

@@ -2,6 +2,7 @@
 content_type: resource
 description: Supplement to the textbook on improper integrals.
 file: /courses/18-01-single-variable-calculus-fall-2006/f8a4294ebb7f7bb04f6d80c404696934_int_imp_integrl.pdf
+file_size: 233692
 file_type: application/pdf
 learning_resource_types:
 - Readings

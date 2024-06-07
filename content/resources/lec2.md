@@ -3,6 +3,7 @@ content_type: resource
 description: Lecture notes on the "rate of change" interpretation of the derivative,
   limits and continuity, and trigonometric limits.
 file: /courses/18-01-single-variable-calculus-fall-2006/acebd5cc8fe0315270d486685739d08f_lec2.pdf
+file_size: 2718760
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
