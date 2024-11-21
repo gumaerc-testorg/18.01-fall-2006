@@ -6,7 +6,7 @@ description: "Lecture notes from the final ten lecture sessions of the course.  
   \ parametric equations, arclength, surface area , polar coordinates, area in polar\
   \ coordinates, indeterminate forms - L'H\xF4spital's rule, improper integrals, infinite\
   \ series and convergence tests, and Taylor's series."
-file: /courses/18-01-single-variable-calculus-fall-2006/c7f91295bbcc5204ad67e84f7d42f408_unit4_oct3_08.pdf
+file: /ol-ocw-studio-app/courses/18-01-single-variable-calculus-fall-2006/c7f91295bbcc5204ad67e84f7d42f408_unit4_oct3_08.pdf
 file_size: 8975975
 file_type: application/pdf
 learning_resource_types:

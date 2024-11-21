@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Lecture notes on the second fundamental theorem of calculus.
-file: /courses/18-01-single-variable-calculus-fall-2006/3cd98c68cec64e9214c8c9003f6cf983_lec20.pdf
+file: /ol-ocw-studio-app/courses/18-01-single-variable-calculus-fall-2006/3cd98c68cec64e9214c8c9003f6cf983_lec20.pdf
 file_size: 388432
 file_type: application/pdf
 learning_resource_types:

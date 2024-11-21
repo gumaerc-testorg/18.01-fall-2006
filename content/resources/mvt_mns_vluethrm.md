@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Supplement to the textbook on the two forms of the mean-value theorem.
-file: /courses/18-01-single-variable-calculus-fall-2006/4dbb60ed1403fc2616e337fe9fb43224_mvt_mns_vluethrm.pdf
+file: /ol-ocw-studio-app/courses/18-01-single-variable-calculus-fall-2006/4dbb60ed1403fc2616e337fe9fb43224_mvt_mns_vluethrm.pdf
 file_size: 118840
 file_type: application/pdf
 learning_resource_types:

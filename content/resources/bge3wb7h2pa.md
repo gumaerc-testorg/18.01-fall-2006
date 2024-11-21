@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /courses/18-01-single-variable-calculus-fall-2006/517f89d8517f2961ae6bab4943b7da7f_BGE3wb7H2PA.srt
+file: /ol-ocw-studio-app/courses/18-01-single-variable-calculus-fall-2006/517f89d8517f2961ae6bab4943b7da7f_BGE3wb7H2PA.srt
 file_size: 60573
 file_type: application/x-subrip
 learning_resource_types: []

@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Practice questions for the second exam of the course.
-file: /courses/18-01-single-variable-calculus-fall-2006/18a4b80044ab85b6d948ba920af54c03_prexam2a.pdf
+file: /ol-ocw-studio-app/courses/18-01-single-variable-calculus-fall-2006/18a4b80044ab85b6d948ba920af54c03_prexam2a.pdf
 file_size: 109666
 file_type: application/pdf
 learning_resource_types:

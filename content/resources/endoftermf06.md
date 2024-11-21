@@ -2,7 +2,7 @@
 content_type: resource
 description: This handout provides information about the final exam and the end of
   the term.
-file: /courses/18-01-single-variable-calculus-fall-2006/d71c273968f16a144ab0cf2bcfa0772f_endoftermf06.pdf
+file: /ol-ocw-studio-app/courses/18-01-single-variable-calculus-fall-2006/d71c273968f16a144ab0cf2bcfa0772f_endoftermf06.pdf
 file_size: 117570
 file_type: application/pdf
 learning_resource_types:

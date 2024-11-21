@@ -2,7 +2,7 @@
 content_type: resource
 description: Lecture notes on the first fundamental theorem of calculus, estimation,
   and and change of variables.
-file: /courses/18-01-single-variable-calculus-fall-2006/817a2c46ddc23e2efda247a79ddeed34_lec19.pdf
+file: /ol-ocw-studio-app/courses/18-01-single-variable-calculus-fall-2006/817a2c46ddc23e2efda247a79ddeed34_lec19.pdf
 file_size: 695345
 file_type: application/pdf
 learning_resource_types:
