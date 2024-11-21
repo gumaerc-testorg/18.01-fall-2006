@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: "Lecture notes on indeterminate forms and L'H\xF4spital's rule."
-file: /courses/18-01-single-variable-calculus-fall-2006/fa89a691b7182cbd44829cd38ecf2693_lec34.pdf
+file: /ol-ocw-studio-app/courses/18-01-single-variable-calculus-fall-2006/fa89a691b7182cbd44829cd38ecf2693_lec34.pdf
 file_size: 221757
 file_type: application/pdf
 learning_resource_types:

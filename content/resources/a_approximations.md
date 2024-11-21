@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Supplement to the textbook on approximation.
-file: /courses/18-01-single-variable-calculus-fall-2006/ea98a7f8029b275f7cb9047f87bc4a29_a_approximations.pdf
+file: /ol-ocw-studio-app/courses/18-01-single-variable-calculus-fall-2006/ea98a7f8029b275f7cb9047f87bc4a29_a_approximations.pdf
 file_size: 447550
 file_type: application/pdf
 learning_resource_types:

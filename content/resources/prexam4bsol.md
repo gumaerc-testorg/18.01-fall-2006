@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Solutions to Practice Exam 4 of the course.
-file: /courses/18-01-single-variable-calculus-fall-2006/19773c041b4107882dfb0523503fdc42_prexam4bsol.pdf
+file: /ol-ocw-studio-app/courses/18-01-single-variable-calculus-fall-2006/19773c041b4107882dfb0523503fdc42_prexam4bsol.pdf
 file_size: 105595
 file_type: application/pdf
 learning_resource_types:
