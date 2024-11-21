@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Supplement to the textbook on average value.
-file: /courses/18-01-single-variable-calculus-fall-2006/e13351c281c7b7d49d24aae95b0b18ff_av_average_value.pdf
+file: /ol-ocw-studio-app/courses/18-01-single-variable-calculus-fall-2006/e13351c281c7b7d49d24aae95b0b18ff_av_average_value.pdf
 file_size: 168389
 file_type: application/pdf
 learning_resource_types:

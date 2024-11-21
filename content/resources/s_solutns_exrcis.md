@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Handout containing solutions to exercises for section 1 to 7 of the course.
-file: /courses/18-01-single-variable-calculus-fall-2006/50647076a1dc45c386dcefa1605b226a_s_solutns_exrcis.pdf
+file: /ol-ocw-studio-app/courses/18-01-single-variable-calculus-fall-2006/50647076a1dc45c386dcefa1605b226a_s_solutns_exrcis.pdf
 file_size: 4260425
 file_type: application/pdf
 learning_resource_types:

@@ -2,7 +2,7 @@
 content_type: resource
 description: Lecture notes on infinite series, geometric series, notation, harmonic
   series, integral comparison, and convergence tests.
-file: /courses/18-01-single-variable-calculus-fall-2006/ba5ce991638cf6285e431937132e5b32_lec36.pdf
+file: /ol-ocw-studio-app/courses/18-01-single-variable-calculus-fall-2006/ba5ce991638cf6285e431937132e5b32_lec36.pdf
 file_size: 1421492
 file_type: application/pdf
 learning_resource_types:

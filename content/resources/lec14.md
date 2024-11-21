@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Lecture notes on the mean value theorem and inequalities.
-file: /courses/18-01-single-variable-calculus-fall-2006/1a211af8e4860b63b801aa3d6e7a2e95_lec14.pdf
+file: /ol-ocw-studio-app/courses/18-01-single-variable-calculus-fall-2006/1a211af8e4860b63b801aa3d6e7a2e95_lec14.pdf
 file_size: 634448
 file_type: application/pdf
 learning_resource_types:
