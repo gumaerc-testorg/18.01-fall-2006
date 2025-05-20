@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Supplement to the textbook on Heaviside's cover-up method.
-file: /ol-ocw-studio-app/courses/18-01-single-variable-calculus-fall-2006/dda2e5c7522ac8cd77fba8ba9f8524ac_f_hscvr_up_methd.pdf
+file: /courses/18-01-single-variable-calculus-fall-2006/dda2e5c7522ac8cd77fba8ba9f8524ac_f_hscvr_up_methd.pdf
 file_size: 260350
 file_type: application/pdf
 learning_resource_types:

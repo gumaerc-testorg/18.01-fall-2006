@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Lecture notes on differentials, antiderivatives, and the method of substitution.
-file: /ol-ocw-studio-app/courses/18-01-single-variable-calculus-fall-2006/c07ab6e13cf8684dd98b2650b64672fb_lec15.pdf
+file: /courses/18-01-single-variable-calculus-fall-2006/c07ab6e13cf8684dd98b2650b64672fb_lec15.pdf
 file_size: 130496
 file_type: application/pdf
 learning_resource_types:

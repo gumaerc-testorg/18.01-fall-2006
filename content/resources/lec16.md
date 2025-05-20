@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Lecture notes on differential equations and separation of variables.
-file: /ol-ocw-studio-app/courses/18-01-single-variable-calculus-fall-2006/991e10d17c527483d3d41d83a7313536_lec16.pdf
+file: /courses/18-01-single-variable-calculus-fall-2006/991e10d17c527483d3d41d83a7313536_lec16.pdf
 file_size: 645960
 file_type: application/pdf
 learning_resource_types:

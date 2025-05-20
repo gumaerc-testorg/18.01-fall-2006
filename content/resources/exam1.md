@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: The first exam of the course.
-file: /ol-ocw-studio-app/courses/18-01-single-variable-calculus-fall-2006/f59cd98e31f25c1690accfb8821eef13_exam1.pdf
+file: /courses/18-01-single-variable-calculus-fall-2006/f59cd98e31f25c1690accfb8821eef13_exam1.pdf
 file_size: 102496
 file_type: application/pdf
 learning_resource_types:

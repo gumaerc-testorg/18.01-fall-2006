@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Second exam of the course.
-file: /ol-ocw-studio-app/courses/18-01-single-variable-calculus-fall-2006/daea3cad537fab8e3d158209d75fb407_exam2.pdf
+file: /courses/18-01-single-variable-calculus-fall-2006/daea3cad537fab8e3d158209d75fb407_exam2.pdf
 file_size: 102406
 file_type: application/pdf
 learning_resource_types:

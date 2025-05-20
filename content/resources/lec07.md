@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Image accompanying a video lecture.
-file: /ol-ocw-studio-app/courses/18-01-single-variable-calculus-fall-2006/060d0426c3104f2532d452be284ce792_lec07.jpg
+file: /courses/18-01-single-variable-calculus-fall-2006/060d0426c3104f2532d452be284ce792_lec07.jpg
 file_size: 2590
 file_type: image/jpeg
 image_metadata:

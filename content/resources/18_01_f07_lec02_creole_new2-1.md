@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Subtitle captions for a video lecture.
-file: /ol-ocw-studio-app/courses/18-01-single-variable-calculus-fall-2006/84eada49b6045e4ea873ce369a67983a_18_01_f07_lec02_Creole_new2.vtt
+file: /courses/18-01-single-variable-calculus-fall-2006/84eada49b6045e4ea873ce369a67983a_18_01_f07_lec02_Creole_new2.vtt
 file_size: 50921
 file_type: application/x-subrip
 learning_resource_types: []
