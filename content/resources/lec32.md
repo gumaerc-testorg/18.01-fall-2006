@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Lecture notes on polar coordinates and area in polar coordinates.
-file: /ol-ocw-studio-app/courses/18-01-single-variable-calculus-fall-2006/812b038d42079f12b9c82df443eab41c_lec32.pdf
+file: /courses/18-01-single-variable-calculus-fall-2006/812b038d42079f12b9c82df443eab41c_lec32.pdf
 file_size: 2123156
 file_type: application/pdf
 learning_resource_types:

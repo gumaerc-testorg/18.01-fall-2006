@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: The fourth exam of the course.
-file: /ol-ocw-studio-app/courses/18-01-single-variable-calculus-fall-2006/0a24b4dfde19f54a7918e4411d7591f1_exam4.pdf
+file: /courses/18-01-single-variable-calculus-fall-2006/0a24b4dfde19f54a7918e4411d7591f1_exam4.pdf
 file_size: 115562
 file_type: application/pdf
 learning_resource_types:

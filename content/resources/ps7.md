@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Problem set on single variable calculus.
-file: /ol-ocw-studio-app/courses/18-01-single-variable-calculus-fall-2006/d7836a022f9355654f4012e9c6a3a2cd_ps7.pdf
+file: /courses/18-01-single-variable-calculus-fall-2006/d7836a022f9355654f4012e9c6a3a2cd_ps7.pdf
 file_size: 139354
 file_type: application/pdf
 learning_resource_types:

@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Lecture notes on partial fractions and rational functions.
-file: /ol-ocw-studio-app/courses/18-01-single-variable-calculus-fall-2006/9715437d38fdfc4b91095d1b20920b79_lec29.pdf
+file: /courses/18-01-single-variable-calculus-fall-2006/9715437d38fdfc4b91095d1b20920b79_lec29.pdf
 file_size: 149696
 file_type: application/pdf
 learning_resource_types:

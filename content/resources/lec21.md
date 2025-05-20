@@ -2,7 +2,7 @@
 content_type: resource
 description: Lecture notes on applications of the second fundamental theorem of calculus
   to logarithms and geometry.
-file: /ol-ocw-studio-app/courses/18-01-single-variable-calculus-fall-2006/df90380a9805621e488cac35fe009764_lec21.pdf
+file: /courses/18-01-single-variable-calculus-fall-2006/df90380a9805621e488cac35fe009764_lec21.pdf
 file_size: 1503726
 file_type: application/pdf
 learning_resource_types:
