@@ -2,7 +2,7 @@
 content_type: resource
 description: Lecture notes on integration by parts, reduction formulas, arc length,
   and parametric equations.
-file: /ol-ocw-studio-app/courses/18-01-single-variable-calculus-fall-2006/e2ae9ec87ea3cb1a02d02400c4c2a276_lec30.pdf
+file: /courses/18-01-single-variable-calculus-fall-2006/e2ae9ec87ea3cb1a02d02400c4c2a276_lec30.pdf
 file_size: 1481979
 file_type: application/pdf
 learning_resource_types:

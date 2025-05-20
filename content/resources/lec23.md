@@ -2,7 +2,7 @@
 content_type: resource
 description: Lecture notes on application of integration to average value, volume
   by slices, work, average value, and probability.
-file: /ol-ocw-studio-app/courses/18-01-single-variable-calculus-fall-2006/c9b0814986c30ee6aca81d0c9b3614d6_lec23.pdf
+file: /courses/18-01-single-variable-calculus-fall-2006/c9b0814986c30ee6aca81d0c9b3614d6_lec23.pdf
 file_size: 2272642
 file_type: application/pdf
 learning_resource_types:

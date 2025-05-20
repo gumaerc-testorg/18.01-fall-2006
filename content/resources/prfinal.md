@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Practice questions for the final exam.
-file: /ol-ocw-studio-app/courses/18-01-single-variable-calculus-fall-2006/7025cfa8c7d4f105856a70f9fdc10db3_prfinal.pdf
+file: /courses/18-01-single-variable-calculus-fall-2006/7025cfa8c7d4f105856a70f9fdc10db3_prfinal.pdf
 file_size: 126598
 file_type: application/pdf
 learning_resource_types:

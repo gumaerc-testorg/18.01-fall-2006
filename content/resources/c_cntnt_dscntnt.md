@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Supplement to the textbook on continuity and discontinuity.
-file: /ol-ocw-studio-app/courses/18-01-single-variable-calculus-fall-2006/08a6c62564099e85ab310ca0db1e2182_c_cntnt_dscntnt.pdf
+file: /courses/18-01-single-variable-calculus-fall-2006/08a6c62564099e85ab310ca0db1e2182_c_cntnt_dscntnt.pdf
 file_size: 244799
 file_type: application/pdf
 learning_resource_types:

@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Table of contents to the course textbook.
-file: /ol-ocw-studio-app/courses/18-01-single-variable-calculus-fall-2006/e15cd25ee432b07f9c2f464fd29f7def_18_01_cover_toc.pdf
+file: /courses/18-01-single-variable-calculus-fall-2006/e15cd25ee432b07f9c2f464fd29f7def_18_01_cover_toc.pdf
 file_size: 37701
 file_type: application/pdf
 learning_resource_types:

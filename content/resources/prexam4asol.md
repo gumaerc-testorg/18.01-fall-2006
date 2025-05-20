@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Practice questions for the fourth exam of the course.
-file: /ol-ocw-studio-app/courses/18-01-single-variable-calculus-fall-2006/631a0a303de0c9478613cd19158ec36a_prexam4asol.pdf
+file: /courses/18-01-single-variable-calculus-fall-2006/631a0a303de0c9478613cd19158ec36a_prexam4asol.pdf
 file_size: 136000
 file_type: application/pdf
 learning_resource_types:
