@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Lecture notes on chain rule and higher derivatives.
-file: /courses/18-01-single-variable-calculus-fall-2006/b8051c7c7a28e2cd03667de9dd4865fb_lec4.pdf
+file: /ol-ocw-studio-app/courses/18-01-single-variable-calculus-fall-2006/b8051c7c7a28e2cd03667de9dd4865fb_lec4.pdf
 file_size: 308895
 file_type: application/pdf
 learning_resource_types:

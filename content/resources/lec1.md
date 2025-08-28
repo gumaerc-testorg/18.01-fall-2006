@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Lecture notes on derivatives, slope, velocity, and rate of change.
-file: /courses/18-01-single-variable-calculus-fall-2006/c6a2d4081848972d197c41332e604d49_lec1.pdf
+file: /ol-ocw-studio-app/courses/18-01-single-variable-calculus-fall-2006/c6a2d4081848972d197c41332e604d49_lec1.pdf
 file_size: 1096602
 file_type: application/pdf
 learning_resource_types:
