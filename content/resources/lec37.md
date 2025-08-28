@@ -2,7 +2,7 @@
 content_type: resource
 description: Lecture notes on general series, differentiation, integration, Taylor
   series, and Taylor's formula.
-file: /courses/18-01-single-variable-calculus-fall-2006/f76ca4e44b2c5b208dd6f785ee1db93e_lec37.pdf
+file: /ol-ocw-studio-app/courses/18-01-single-variable-calculus-fall-2006/f76ca4e44b2c5b208dd6f785ee1db93e_lec37.pdf
 file_size: 211954
 file_type: application/pdf
 learning_resource_types:
