@@ -1,11 +1,16 @@
 ---
 content_type: resource
 description: Practice questions for the second exam of the course.
-file: /courses/18-01-single-variable-calculus-fall-2006/18a4b80044ab85b6d948ba920af54c03_prexam2a.pdf
+draft: false
+file: /ol-ocw-studio-app/courses/18-01-single-variable-calculus-fall-2006/18a4b80044ab85b6d948ba920af54c03_prexam2a.pdf
 file_size: 109666
 file_type: application/pdf
+image_metadata:
+  caption: ''
+  credit: ''
+  image-alt: ''
 learning_resource_types:
-- Exams
+- Supplemental Exam Materials
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Exams
@@ -14,5 +19,16 @@ parent_uid: adc88628-f4af-afbd-2575-962ba651df76
 resourcetype: Document
 title: Practice Questions for Exam 2
 uid: 18a4b800-44ab-85b6-d948-ba920af54c03
+video_files:
+  archive_url: ''
+  video_captions_file: ''
+  video_thumbnail_file: ''
+  video_transcript_file: ''
+video_metadata:
+  source: ''
+  video_speakers: ''
+  video_tags: ''
+  youtube_description: ''
+  youtube_id: ''
 ---
 Practice questions for the second exam of the course.

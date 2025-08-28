@@ -21,14 +21,14 @@ uid: 71c1ad1b-ad19-cb35-c6f7-cf74f4be9214
 The Web page contains a plethora of interesting resources to help you visualize important mathematical concepts. Most of these are Java applets, which run interactively as plug-ins in your web browser. To use them you must have Java enabled in your browser preferences - by default, it probably is already.
 
 - Some Java applets from MIT's OpenCourseWare page for 18.013A:
-    - [Operations on functions](https://ocw-studio.odl.mit.edu/ans7870/18/18.013a/textbook/HTML/tools/tools01.html)
-    - [Trigonometric functions](https://ocw-studio.odl.mit.edu/ans7870/18/18.013a/textbook/HTML/tools/tools02.html)
-    - [Slope of a line](https://ocw-studio.odl.mit.edu/ans7870/18/18.013a/textbook/HTML/tools/tools03.html)
-    - [Derivative and tangent line](https://ocw-studio.odl.mit.edu/ans7870/18/18.013a/textbook/HTML/tools/tools04.html)
-    - [Constant, linear, quadratic and cubic approximations](https://ocw-studio.odl.mit.edu/ans7870/18/18.013a/textbook/HTML/tools/tools05.html)
-    - [Numerical integration](https://ocw-studio.odl.mit.edu/ans7870/18/18.013a/textbook/HTML/tools/tools07.html)
-    - [Polar plotter](https://ocw-studio.odl.mit.edu/ans7870/18/18.013a/textbook/HTML/tools/tools16.html)
-    - [Curves in two dimensions](https://ocw-studio.odl.mit.edu/ans7870/18/18.013a/textbook/HTML/tools/tools17.html)
+    - [Operations on functions](https://ocw.mit.edu/ans7870/18/18.013a/textbook/HTML/chapter01/section04.html#OperationsOnFunctions)
+    - [Trigonometric functions](https://ocw.mit.edu/ans7870/18/18.013a/textbook/HTML/chapter02/section02.html#TrigonometricFunctions)
+    - [Slope of a line](https://ocw.mit.edu/ans7870/18/18.013a/textbook/HTML/chapter05/section03.html#SlopeOfLine)
+    - [Derivative and tangent line](https://ocw.mit.edu/ans7870/18/18.013a/textbook/HTML/chapter06/section01.html#DerivativeTangentLine)
+    - [Constant, linear, quadratic and cubic approximations](https://ocw.mit.edu/ans7870/18/18.013a/textbook/HTML/chapter10/section02.html#FunctionApproximations)
+    - [Numerical integration](https://ocw.mit.edu/ans7870/18/18.013a/textbook/HTML/chapter20/section05.html#NumericalIntegration)
+    - [Polar plotter](https://ocw.mit.edu/ans7870/18/18.013a/textbook/HTML/tools/tools16.html)
+    - [Curves in two dimensions](https://ocw.mit.edu/ans7870/18/18.013a/textbook/HTML/tools/tools17.html)
 - Function and Derivative Animations, by Przemyslaw Bogacki and Gordon Melrose (.avi files, can play e.g. with [Windows Media® Player](http://www.microsoft.com/windows/windowsmedia))
 - Java applets of secant lines and tangent lines:
     - [A smooth function](http://mathworld.wolfram.com/SmoothFunction.html)
@@ -46,7 +46,7 @@ The Web page contains a plethora of interesting resources to help you visualize 
 - [Rolle's theorem and the mean value theorem](http://www.cut-the-knot.org/Curriculum/Calculus/MVT.shtml) (applet from IES, [Manipula Math](http://www.ies-math.com/math/java/))
 - [Numerical Integration Simulation](http://www.cs.utah.edu/~zachary/isp/applets/Integrate/Integrate.html) (by Joseph L. Zachary)
 - [Direction field applet](http://www.scottsarra.org/applets/dirField1/dirField1.html) (by Scott Sarra)
-- More direction field applets (from [UBC Calculus Online](http://www.ugrad.math.ubc.ca/coursedoc/math100/index.html))
+- More direction field applets (from [UBC Calculus Online](https://www.merlot.org/merlot/viewMaterial.htm?id=86831))
 - [Parametric equation applet](http://www.scottsarra.org/applets/calculus/Parametric.html) (by Scott Sarra)
 - Cycloid animation ([AVI](http://www.math.odu.edu/cbii/calcanim/hsp_21.avi)) (by Przemyslaw Bogacki and Gordon Melrose)
 - [Cycloid applet](http://www.univie.ac.at/future.media/moe/galerie/geom3/geom3.html#zykloiden) (from [Maths Online](http://www.univie.ac.at/future.media/moe/galerie.html))

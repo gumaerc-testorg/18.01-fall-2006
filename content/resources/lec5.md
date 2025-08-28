@@ -2,7 +2,7 @@
 content_type: resource
 description: Lecture notes on implicit differentiation, inverse functions, and graphing
   and inverse function.
-file: /courses/18-01-single-variable-calculus-fall-2006/18d6a86a30a4bc046c5f7034d47587f1_lec5.pdf
+file: /ol-ocw-studio-app/courses/18-01-single-variable-calculus-fall-2006/18d6a86a30a4bc046c5f7034d47587f1_lec5.pdf
 file_size: 481797
 file_type: application/pdf
 learning_resource_types:
