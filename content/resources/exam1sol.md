@@ -2,7 +2,7 @@
 content_type: resource
 description: Solutions to the first exam of the course.
 draft: false
-file: /courses/18-01-single-variable-calculus-fall-2006/c19bbbeab0d30f010c2d8f52c60b8c8e_exam1sol.pdf
+file: /ol-ocw-studio-app/courses/18-01-single-variable-calculus-fall-2006/c19bbbeab0d30f010c2d8f52c60b8c8e_exam1sol.pdf
 file_size: 113421
 file_type: application/pdf
 image_metadata:

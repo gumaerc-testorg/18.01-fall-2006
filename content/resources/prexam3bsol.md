@@ -2,7 +2,7 @@
 content_type: resource
 description: Solutions to the third practice exam of the course.
 draft: false
-file: /courses/18-01-single-variable-calculus-fall-2006/1f20b3bc4aabb8a8b58d20df5b70e629_prexam3bsol.pdf
+file: /ol-ocw-studio-app/courses/18-01-single-variable-calculus-fall-2006/1f20b3bc4aabb8a8b58d20df5b70e629_prexam3bsol.pdf
 file_size: 111887
 file_type: application/pdf
 image_metadata:

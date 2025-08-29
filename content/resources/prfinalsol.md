@@ -2,7 +2,7 @@
 content_type: resource
 description: Solutions to the Practice Final Exam of the course.
 draft: false
-file: /courses/18-01-single-variable-calculus-fall-2006/ddc6b990286fcf509e8e1c53a00848fc_prfinalsol.pdf
+file: /ol-ocw-studio-app/courses/18-01-single-variable-calculus-fall-2006/ddc6b990286fcf509e8e1c53a00848fc_prfinalsol.pdf
 file_size: 117803
 file_type: application/pdf
 image_metadata:
